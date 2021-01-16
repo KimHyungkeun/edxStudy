@@ -1,4 +1,4 @@
-# edxStudy
+# edxStudy and Project in Isaac Engineering
 - edx교육사이트 튜토리얼 및 개인 프로젝트 (이삭엔지니어링)
 
 [1.ElasticSearch](https://github.com/KimHyungkeun/edxStudy/tree/master/ElasticSearch) : 엘라스틱서치를 사용한 데이터 적재 및 Kibana를 통한 시각화에 대한 튜토리얼
