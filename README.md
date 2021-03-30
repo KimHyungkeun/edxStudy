@@ -1,5 +1,6 @@
 # edxStudy and Project in Isaac Engineering
 - edx교육사이트 튜토리얼 및 개인 프로젝트 (이삭엔지니어링)
+- Hadoop 및 빅데이터 관련 기본 이론을 학습. Hadoop 에코시스템 내의 서비스 예제를 다룸.
 
 [1.ElasticSearch](https://github.com/KimHyungkeun/edxStudy/tree/master/ElasticSearch) : 엘라스틱서치를 사용한 데이터 적재 및 Kibana를 통한 시각화에 대한 튜토리얼
 
