@@ -4,7 +4,7 @@
 
 [1.ElasticSearch](https://github.com/KimHyungkeun/edxStudy/tree/master/ElasticSearch) : 엘라스틱서치를 사용한 데이터 적재 및 Kibana를 통한 시각화에 대한 튜토리얼
 
-[2.FlightData](https://github.com/KimHyungkeun/edxStudy/tree/master/Flight_Data) : 날씨에 따른 비행연착 시간을 추출하기 위한 튜토리얼. RDBMS와 Hadoop를 Sqoop을 통해 Import/Export
+[2.Flight_Data](https://github.com/KimHyungkeun/edxStudy/tree/master/Flight_Data) : 날씨에 따른 비행연착 시간을 추출하기 위한 튜토리얼. RDBMS와 Hadoop를 Sqoop을 통해 Import/Export
 
 [3.Lab1](https://github.com/KimHyungkeun/edxStudy/tree/master/Lab1) : Microsoft HDInsight 하둡 튜토리얼
 
@@ -18,4 +18,4 @@
 
 [8.Supersets](https://github.com/KimHyungkeun/edxStudy/tree/master/Supersets) : Supersets을 통한 데이터 시각화 튜토리얼
 
-[9.TwitterAnalyze](https://github.com/KimHyungkeun/edxStudy/tree/master/TwitterAnalyze) : Twitter 데이터를 분석하여 긍정,중립,부정의 척도를 시각화
+[9.Twitte_rAnalyze](https://github.com/KimHyungkeun/edxStudy/tree/master/Twitter_Data_Analyze) : Twitter 데이터를 분석하여 긍정,중립,부정의 척도를 시각화
