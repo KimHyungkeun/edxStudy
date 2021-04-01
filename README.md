@@ -18,4 +18,4 @@
 
 [8.Supersets](https://github.com/KimHyungkeun/edxStudy/tree/master/Supersets) : Supersets을 통한 데이터 시각화 튜토리얼
 
-[9.Twitte_rAnalyze](https://github.com/KimHyungkeun/edxStudy/tree/master/Twitter_Data_Analyze) : Twitter 데이터를 분석하여 긍정,중립,부정의 척도를 시각화
+[9.Twitter_Data_Analyze](https://github.com/KimHyungkeun/edxStudy/tree/master/Twitter_Data_Analyze) : Twitter 데이터를 분석하여 긍정,중립,부정의 척도를 시각화
