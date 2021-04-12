@@ -6,7 +6,7 @@
 
 [2.Flight_Data](https://github.com/KimHyungkeun/edxStudy/tree/master/Flight_Data) : 날씨에 따른 비행연착 시간을 추출하기 위한 튜토리얼. Sqoop을 통해 Import/Export
 
-[3.Lab1](https://github.com/KimHyungkeun/edxStudy/tree/master/Lab1) : Microsoft HDInsight 하둡 튜토리얼
+[3.Lab1](https://github.com/KimHyungkeun/edxStudy/tree/master/Lab1) : Microsoft HDInsight 하둡 튜토리얼(Cloudera 환경에서 진행한 관계로 미진행)
 
 [4.Lab2](https://github.com/KimHyungkeun/edxStudy/tree/master/Lab2) : Hive 튜토리얼
 
