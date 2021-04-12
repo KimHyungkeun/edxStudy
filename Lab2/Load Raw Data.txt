@@ -1,0 +1,1 @@
+LOAD DATA INPATH '/user/hkkim/data/logs' INTO TABLE rawlog;
